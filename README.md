@@ -50,12 +50,6 @@ The project is expected to be completed within two weeks.
      
  **Source code** used for data preprocessing, analysis, and visualization.
 
-## Success Metrics
-
-- The project should provide a comprehensive overview of the nutritional content of McDonald's menu items.
-- Visualizations should effectively convey calorie counts and nutritional information.
-- Insights should highlight healthy and less healthy food options.
-
 ## How to Run the Project
 
 Clone the repository:
