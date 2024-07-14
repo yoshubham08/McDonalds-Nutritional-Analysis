@@ -44,11 +44,11 @@ The project is expected to be completed within two weeks.
 
 ## Deliverables
 
-1. **Report (PDF):**
    - Description of data analysis approach and methodology.
    - Exploratory data analysis findings and insights.
    - Visualizations depicting nutritional information.
-2. **Source code** used for data preprocessing, analysis, and visualization.
+     
+ **Source code** used for data preprocessing, analysis, and visualization.
 
 ## Success Metrics
 
@@ -61,3 +61,4 @@ The project is expected to be completed within two weeks.
 Clone the repository:
 
 ```bash
+https://github.com/yoshubham08/McDonalds-Nutritional-Analysis.git
